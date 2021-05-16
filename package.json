@@ -1,0 +1,27 @@
+{
+  "name": "minethegap",
+  "version": "0.0.1",
+  "description": "Crypto Auto Balancer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yenif/MineTheGap.git"
+  },
+  "author": "madtechnologist.eth",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/yenif/MineTheGap/issues"
+  },
+  "homepage": "https://github.com/yenif/MineTheGap#readme",
+  "dependencies": {
+    "aws-sdk": "^2.907.0",
+    "big-js": "^3.1.3",
+    "coinbase-pro": "^0.9.0"
+  },
+  "devDependencies": {
+    "serverless": "^2.41.2"
+  }
+}
