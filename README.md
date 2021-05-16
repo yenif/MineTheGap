@@ -1,2 +1,2 @@
-# MindTheGap
+# MineTheGap
 NodeJS Crypto Auto Balancer
