@@ -22,6 +22,6 @@
     "coinbase-pro": "^0.9.0"
   },
   "devDependencies": {
-    "serverless": "^2.41.2"
+    "serverless": "^2.72.4"
   }
 }
